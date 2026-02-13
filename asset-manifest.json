@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/earworm-simulator/static/css/main.7a26d3fe.css",
-    "main.js": "/github.io/earworm-simulator/static/js/main.20e86751.js",
-    "static/js/453.50bcefd2.chunk.js": "/github.io/earworm-simulator/static/js/453.50bcefd2.chunk.js",
-    "index.html": "/github.io/earworm-simulator/index.html",
-    "main.7a26d3fe.css.map": "/github.io/earworm-simulator/static/css/main.7a26d3fe.css.map",
-    "main.20e86751.js.map": "/github.io/earworm-simulator/static/js/main.20e86751.js.map",
-    "453.50bcefd2.chunk.js.map": "/github.io/earworm-simulator/static/js/453.50bcefd2.chunk.js.map"
+    "main.css": "/earworm-simulator/static/css/main.7a26d3fe.css",
+    "main.js": "/earworm-simulator/static/js/main.2f187085.js",
+    "static/js/453.50bcefd2.chunk.js": "/earworm-simulator/static/js/453.50bcefd2.chunk.js",
+    "index.html": "/earworm-simulator/index.html",
+    "main.7a26d3fe.css.map": "/earworm-simulator/static/css/main.7a26d3fe.css.map",
+    "main.2f187085.js.map": "/earworm-simulator/static/js/main.2f187085.js.map",
+    "453.50bcefd2.chunk.js.map": "/earworm-simulator/static/js/453.50bcefd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a26d3fe.css",
-    "static/js/main.20e86751.js"
+    "static/js/main.2f187085.js"
   ]
 }
