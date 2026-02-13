@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajprotocolauthor/algorithmschildren/static/css/main.7a26d3fe.css",
+    "main.js": "/ajprotocolauthor/algorithmschildren/static/js/main.76ff7e84.js",
+    "static/js/453.50bcefd2.chunk.js": "/ajprotocolauthor/algorithmschildren/static/js/453.50bcefd2.chunk.js",
+    "index.html": "/ajprotocolauthor/algorithmschildren/index.html",
+    "main.7a26d3fe.css.map": "/ajprotocolauthor/algorithmschildren/static/css/main.7a26d3fe.css.map",
+    "main.76ff7e84.js.map": "/ajprotocolauthor/algorithmschildren/static/js/main.76ff7e84.js.map",
+    "453.50bcefd2.chunk.js.map": "/ajprotocolauthor/algorithmschildren/static/js/453.50bcefd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a26d3fe.css",
+    "static/js/main.76ff7e84.js"
+  ]
+}
