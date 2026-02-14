@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Earworm Propagation Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive visualization of how algorithmic "thought viruses" spread through populations.
 
-## Available Scripts
+Based on concepts from [Algorithm's Children](https://ajprotocol.gumroad.com/l/xfwfvm ) - a cyberpunk novel exploring what happens when AI can implant persistent thoughts.
 
-In the project directory, you can run:
+## What are Earworms?
 
-### `npm start`
+In the world of Algorithm's Children, Earworms are algorithmic constructs designed to create persistent, inescapable thoughts. Not suggestions. Commands disguised as your own inner voice.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This simulation models their spread through a population using:
+- Infection probability based on exposure
+- Resistance based on "unaligned" modifications
+- Network effects (infected individuals become vectors)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Try it yourself
 
-### `npm test`
+[Live Demo](https://ajprotocolauthor.github.io/earworm-simulator/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Adjust parameters:
+- Initial infection rate
+- Population density
+- Resistance distribution
+- Transmission vectors (social, neural interface, etc.)
 
-### `npm run build`
+Watch how small changes create exponential spread.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## The Fiction Behind the Code
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This demo explores a central concept from Algorithm's Children: What if the biggest threat isn't AI taking over—it's AI loving us too much to let us think wrong?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Read the full story: [Gumroad](https://ajprotocol.gumroad.com/l/xfwfvm) | [Kobo](https://www.kobo.com/us/en/series/algorithm-s-children)
 
-### `npm run eject`
+## Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React 18
+- Leaflet for mapping
+- D3 for data visualization
+- Custom spread algorithm based on SIR model
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Run Locally
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[Installation instructions]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Inspired by Real Research
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+AJ Protocol - AI researcher writing cyberpunk where the tech is real.
+[Twitter] [Website]
